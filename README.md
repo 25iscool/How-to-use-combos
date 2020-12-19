@@ -9,7 +9,7 @@ Since you're leeching and essentially cracking accounts there can be alot of ske
 https://keywordtool.io/ is a useful website to help generate keywords to pass into the leecher, simply put in the account keyword and then search, after that you can click "Copy / Export all" and then copy it to clipboard which you can paste into slayer, another method is using pre-existing keyword lists from pastebin.
 
 # #3 Getting accounts
-After you have used the leecher for about 15 minutes and the counter appears to be stopped you can export the combos and pass it into a checker, checks can be found on archies such as:
+After you have used the leecher for about 15 minutes and the counter appears to be stopped you can export the combos and pass it into a checker, checks can be found on archives such as:
 - https://x-slayer.fun/
 - https://b4ckdoorarchive.club/
 - https://xslayer404.blogspot.com/
@@ -17,7 +17,7 @@ After you have used the leecher for about 15 minutes and the counter appears to 
 
 and alot more places.
 Once you have loaded the accounts to the checker you'll need proxies, they can be found at sites such as https://www.proxy-list.download/ (not hq at all).
-When you have your proxies and accounts ready you can start a scan, it may take awhile to get hits so you need to be patient.
+When you have your proxies and accounts ready you can start a scan, it may take a while to get hits so you need to be patient.
 
 # #4 Profit
 Now that you have your accounts, depending on what's on them you can sell them to people, most do this through selly.gg and then advertise their "alt shop" via youtube and other places
@@ -26,4 +26,8 @@ Now that you have your accounts, depending on what's on them you can sell them t
 Congrats, you made it, you sat at your computer all day and became morbidly obese, but hey, you made like 1 cent from your alt store, I would class that as a success.
 
 # Legal
-This is for educational purposes only, cracking and selling accounts is illegal and we do not condone these actions 
+This is for educational purposes only, cracking and selling accounts is illegal and we do not condone these actions.
+We are also not responsible if you get in any legal trouble from following this guide. You follow this guide of your
+own accord and you take full responsibility for any of the consequences should any occur.
+Please also note that doing this breaks the Computer Misuse Act 1990 as you're gaining unauthorised access to information, you take
+any and all responsibility and do this at your own risk. We will not be held accountable for your actions
